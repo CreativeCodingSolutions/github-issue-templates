@@ -17,6 +17,22 @@
 
 Find your issue/PR templates, and just grab and go.
 
+| Template | Description |
+|----------|-------------|
+| [bugs-only](/bugs-only) | Bug-fix-only PRs with detailed reproduction steps |
+| [checklist](/checklist) | General checklist-based issue and PR templates |
+| [checklist2](/checklist2) | Alternative checklist-style templates |
+| [conversational](/conversational) | Conversational issue template |
+| [emoji-guide](/emoji-guide) | Emoji-labeled issue and PR templates |
+| [must-open-issue-before-pr](/must-open-issue-before-pr) | Requires an issue before submitting a PR |
+| [no-duplicates](/no-duplicates) | Duplicate issue prevention template |
+| [pr-quality](/pr-quality) *New!* | PR template with quality checklist and PR Quality Analyzer integration |
+| [questions-answers](/questions-answers) | Q&A style issue template |
+| [screenshots](/screenshots) | Screenshot-focused issue template |
+| [simple](/simple) | Minimal issue and PR templates |
+| [squash-commits](/squash-commits) | Squash commit oriented PR template |
+| [system](/system) | System information issue template |
+
 *Inspired by excellent GitHub projects that use issue and pull request templates.*
 
 Templates here are either copied from or modified based on real projects on GitHub.
